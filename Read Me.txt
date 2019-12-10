@@ -1,0 +1,21 @@
+The program is coded in C.
+
+Input the number of threads that is needed to group and process matrix multiplication row wise.
+
+In order to take the inputs from the text file, upload the text files with the names matA & matB containing the two matrices.
+
+The provided matrices in the two text files are 300x300. 
+
+
+Output values can be seen in the excel sheet. The graph is plotted based on microseconds. 
+
+The interval of the values of matrix size used to plot the graph is in such a way that it starts from 0 to 1000 with increments of 40.
+Then after 1000 the the output of the program has been taken for the matrix size of 2000 and 5000.
+
+
+17_ENG_072
+Mayura Pavan Manawadu
+
+
+
+Thank You!
